@@ -1,0 +1,40 @@
+body{
+    font-family: "Georgia", "helvetica", sans-serif;
+    background-color: #094;
+    color: #DDD
+}
+header{
+    text-align: center;
+    color: black;
+}
+
+.container{
+    position: relative;
+    width: auto;
+    height: 800px;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: #064;
+}
+#img1{
+    padding: 10px;
+    width:75%;
+    max-height:100%;
+}
+
+#sloth1{
+    position: relative;
+    width: 50%;
+    float: left;
+}
+
+p, ul{
+    font-size: 14pt;
+}
+
+#paragraph{
+    position: relative;
+    width: 50%;
+    float: right;
+    
+}
